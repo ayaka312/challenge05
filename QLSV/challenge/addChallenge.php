@@ -61,7 +61,7 @@ mysqli_close($conn);
                 </div>
                 <div class='form-group'>
                     <label for='description'>Gợi ý: </label>
-                    <textarea id='description' name='description' placeholder='Enter hint here' required></textarea><br>
+                    <textarea id='description' name='description' placeholder='Nhập gợi ý' required></textarea><br>
                 </div>
                 <div class='form-group'>
                     <label for='fileToUpload'>Chọn từ tệp: </label>
