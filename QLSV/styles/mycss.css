@@ -1,0 +1,42 @@
+
+.page-header {
+    margin-top: 70px;
+    text-align: center; 
+}
+
+body  {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    background-color: white;
+    color: #ffffff;
+}
+
+input, textarea {
+    color: #000000;
+}
+
+
+.panel-body {
+    color: black;
+  }
+  
+.well {
+    color: black;
+}
+
+.mess {
+    margin:auto;
+    font-size:15px;
+    font-weight:550;
+    color: black;
+    background-color:rgb(33, 145, 165);
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
